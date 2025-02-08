@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   
+</head>
+<body>
+    <div>
+        <p>
+            <label for="valor1">valor1:</label>
+            <input type="number" name="valor1" id="valor1" placeholder="0"  onfocus="this.value='';">
+        </p>
+    </div>
+    <div>
+        <p>
+            <label for="valor2">valor2:</label>
+            <input type="number" name="valor2" id="valor2" placeholder="0"  onfocus="this.value='';">
+        </p>
+    </div>
+    <div>
+        <p id="res">
+            Resultado: 0
+        </p>
+    </div>
+
+    <div id="botao">
+        <input type="button" value="+" id="maior">
+        <input type="button" value="-" id="menor">
+        <input type="button" value="x" id="vezes">
+        <input type="button" value="/" id="dividir">
+    </div>
+    <script src="teste.js"></script>
+</body>
+</html>
