@@ -9,6 +9,6 @@ contador: [https://reinaldo87.github.io/exerccios-JavaScript/Contador/index.html
 
 copiar e transferir: https://reinaldo87.github.io/exerccios-JavaScript/Copia-e-transferir/index.html
 
-tabuada: https://reinaldo87.github.io/exerccios-JavaScript/Tabuada/index.html
+tabuada: [https://reinaldo87.github.io/exerccios-JavaScript/Tabuada/index.html](https://reinaldo87.github.io/exercicios-JavaScript/Tabuada/index.html)
 
 Verificador de idade: https://reinaldo87.github.io/exerccios-JavaScript/Verificar-idade/index.html
