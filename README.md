@@ -2,7 +2,8 @@ Adicionar numeros: [https://reinaldo87.github.io/exerccios-JavaScript/Adcionar-N
 
 exercício Bom dia,tarde,noite: [https://reinaldo87.github.io/exerccios-JavaScript/Bom-dia/ex01.html](https://reinaldo87.github.io/exercicios-JavaScript/Bom-dia/ex01.html)
 
-calculadora ultra simples: https://reinaldo87.github.io/exerccios-JavaScript/Calculadora/index.html
+calculadora ultra simples: [https://reinaldo87.github.io/exerccios-JavaScript/Calculadora/index.html
+](https://reinaldo87.github.io/exercicios-JavaScript/Calculadora/index.html)
 
 contador: https://reinaldo87.github.io/exerccios-JavaScript/Contador/index.html
 
