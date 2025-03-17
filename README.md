@@ -5,7 +5,7 @@ exercício Bom dia,tarde,noite: [https://reinaldo87.github.io/exerccios-JavaScri
 calculadora ultra simples: [https://reinaldo87.github.io/exerccios-JavaScript/Calculadora/index.html
 ](https://reinaldo87.github.io/exercicios-JavaScript/Calculadora/index.html)
 
-contador: https://reinaldo87.github.io/exerccios-JavaScript/Contador/index.html
+contador: [https://reinaldo87.github.io/exerccios-JavaScript/Contador/index.html](https://reinaldo87.github.io/exercicios-JavaScript/Contador/index.html)
 
 copiar e transferir: https://reinaldo87.github.io/exerccios-JavaScript/Copia-e-transferir/index.html
 
